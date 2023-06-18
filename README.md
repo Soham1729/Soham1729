@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soham1729
-- 👀 I’m interested in Reinforcement Learning, Causal Inference and anything related to probability. I plan to read high dimensional probability soon.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on causal Reinforcement learning
+- 👀 I’m interested in Reinforcement Learning, Computer vision, and anything related to probability. I plan to read high dimensional probability soon.
+- 🌱 I’m currently learning 3D computer vision
+- 💞️ I’m looking to collaborate on Computer vision and Reinforcement learning
 - 📫 How to reach me sohampyne572@gmail.com
 
 <!---
